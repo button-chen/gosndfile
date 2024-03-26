@@ -6,6 +6,7 @@ package sndfile
 // #include <stdlib.h>
 // #include <sndfile.h>
 // #include <string.h>
+// #include <stdint.h>
 import "C"
 import "unsafe"
 
